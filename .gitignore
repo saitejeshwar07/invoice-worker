@@ -1,0 +1,8 @@
+.env
+__pycache__/
+*.pyc
+runs/
+finance/finance.db
+portal/pdfs/
+.venv/
+invoice-worker.patch
